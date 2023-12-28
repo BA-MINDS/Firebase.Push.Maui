@@ -20,6 +20,13 @@
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            Permissions.CheckStatusAsync<Permissions.Notificion>
+        }
     }
 
 }

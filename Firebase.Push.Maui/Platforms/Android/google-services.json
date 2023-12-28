@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478902328299",
+    "project_id": "dinamica-app",
+    "storage_bucket": "dinamica-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478902328299:android:57ab24e91386d4d7fd17ae",
+        "android_client_info": {
+          "package_name": "com.dinamica.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478902328299-ctvpqkpgocb1871icu11pe7m2ob68gjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyFuRyNMh1l3qlXpr90vmPNKjx_LvsaTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478902328299-ctvpqkpgocb1871icu11pe7m2ob68gjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478902328299-37bcg0sr58p5695bd9h1u46m8gioo6js.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dinamica.wallet",
+                "app_store_id": "1632974131"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
