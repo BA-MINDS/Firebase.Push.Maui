@@ -25,7 +25,7 @@
         {
             base.OnAppearing();
 
-            Permissions.CheckStatusAsync<Permissions.Notificion>
+            //Permissions.CheckStatusAsync<Permissions.Notificion>
         }
     }
 
